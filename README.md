@@ -1,13 +1,13 @@
 ## Hi there 👋
 # Yashu Bhati
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=650&lines=Data+Analyst;Engineer+%26" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=650&lines=Data+Analyst;Engineer" alt="Typing SVG" />
 
 ---
 
 # Overview
 
-Data Analyst building reliable data pipelines, KPI frameworks, and automated reporting that enable large-scale, data-driven decision-making. 
+Professional Data Analyst bridging the gap between raw information and real-world impact, turning numbers into a competitive advantage by combining analytical thinking, technical expertise, and storytelling.
 
 ---
 
@@ -102,6 +102,7 @@ Data Analyst building reliable data pipelines, KPI frameworks, and automated rep
 |---|---|
 | 🎓 Google Certified Data Analyst |
 | 👨‍🏫 IBM Certified Data Analyst |
+
 ---
 
 # 📫 Connect With Me
