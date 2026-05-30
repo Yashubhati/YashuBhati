@@ -1,7 +1,10 @@
 ## Hi there 👋
 # Yashu Bhati
+### Passionate about transforming data into decisions that matter.
+| 🔍 Finding signals in the noise |
+| 📈 Turning data into decisions |
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=650&lines=Data+Analyst;Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=650&lines=Data+Analyst;" alt="Typing SVG" />
 
 ---
 
@@ -98,10 +101,10 @@ Professional Data Analyst bridging the gap between raw information and real-worl
 
 # 🏆 Achievements
 
-| Achievement |
+| Achievement | Details |
 |---|---|
-| 🎓 Google Certified Data Analyst |
-| 👨‍🏫 IBM Certified Data Analyst |
+| 🎓 Google Certified | Earned Data Analyst professional certification |
+| 👨‍🏫 IBM Certified | Earned Data Analyst professional certification |
 
 ---
 
