@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Yashu Bhati
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=650&lines=Data+Analyst;Artificial+Intelligence+Engineer;Quality+Assurance+%26" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=650&lines=Data+Analyst;Engineer;Quality+Assurance+%26" alt="Typing SVG" />
 
 ---
 
@@ -98,10 +98,10 @@ Data Analyst building reliable data pipelines, KPI frameworks, and automated rep
 
 # 🏆 Achievements
 
-| Achievement 
+| Achievement |
 |---|---|
-| 🎓 Google Certified Data Analyst
-| 👨‍🏫 IBM Certified Data Analyst 
+| 🎓 Google Certified Data Analyst |
+| 👨‍🏫 IBM Certified Data Analyst |
 ---
 
 # 📫 Connect With Me
