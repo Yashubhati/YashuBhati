@@ -7,11 +7,7 @@
 
 # Overview
 
-Data Analyst building reliable data pipelines, KPI frameworks, and automated reporting that enable large-scale, data-driven decision-making. Also, curious about AI & ML
-<p align="left">
-  <img src="https://img.shields.io/badge/Hackathons-15%2B-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learners_Mentored-12,000%2B-blue?style=for-the-badge" />
-</p>
+Data Analyst building reliable data pipelines, KPI frameworks, and automated reporting that enable large-scale, data-driven decision-making. 
 
 ---
 
@@ -102,10 +98,10 @@ Data Analyst building reliable data pipelines, KPI frameworks, and automated rep
 
 # 🏆 Achievements
 
-| Achievement | Details |
+| Achievement 
 |---|---|
-| 🎓 Google Certified Data Analyst|
-| 👨‍🏫 IBM Certified Data Analyst |
+| 🎓 Google Certified Data Analyst
+| 👨‍🏫 IBM Certified Data Analyst 
 ---
 
 # 📫 Connect With Me
@@ -126,7 +122,7 @@ Data Analyst building reliable data pipelines, KPI frameworks, and automated rep
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+digital+workspace+%E2%9C%A8;Turning+data+into+actionable+insights+that+drive+high-impact+business+decisions+%F0%9F%9A%80;Always+exploring+the+next+breakthrough+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+digital+workspace+%E2%9C%A8;Turning+data+into+actionable+insights+%F0%9F%9A%80;Always+exploring+the+next+breakthrough+%F0%9F%A7%A0" alt="Typing SVG" />
 
 ---
 <!--
